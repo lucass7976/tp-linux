@@ -1,2 +1,7 @@
 # tp-linux
-trabajo integrador de computación aplicada
+Trabajo integrador de computación aplicada
+Grupo: Linuxnaticos
+Integrantes:
+- Lucas Silva
+- Lautaro Inostrosa
+- Mirko Carchio
